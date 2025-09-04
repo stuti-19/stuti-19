@@ -13,7 +13,7 @@
 - 🌱 Learning **CEH v13** & sharpening skills on **TryHackMe labs**  
 - 🤝 Open to collaborate on **Penetration Testing & Red Team projects**  
 - 💬 Ask me about **Incident Response | Digital Forensics | Exploit Research**  
-- ⚡ Fun fact: I can jump from building **AI fitness bots** to **tracking cybercriminals** in the same week!  
+- ⚡ Fun fact: I can jump from building **AI  bots** to **tracking cybercriminals** in the same week!  
 
 ---
 
