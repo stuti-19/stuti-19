@@ -93,7 +93,12 @@ AI-powered chatbot using **IBM Watsonx.ai** that provides personalized workouts,
 
 ## 📌 Pinned Repositories  
 
+## 📌 Pinned Repositories  
+
 <p align="center">
+  <a href="https://github.com/stuti-19/Dark-Web-Scrapper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stuti-19&repo=Dark-Web-Scrapper&theme=radical" />
+  </a>
   <a href="https://github.com/stuti-19/Fitness_Buddy-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=stuti-19&repo=Fitness_Buddy-&theme=radical" />
   </a>
